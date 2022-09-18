@@ -18,11 +18,6 @@
 	url = https://github.com/mkoohafkan/kfigr
 	shallow = true
 	registered = true
-[submodule "reval"]
-	path = reval
-	url = https://github.com/mkoohafkan/reval
-	shallow = true
-	registered = true
 [submodule "rivr"]
 	path = rivr
 	url = https://github.com/mkoohafkan/rivr
