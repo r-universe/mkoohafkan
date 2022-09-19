@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "reval",
+    "oncran": true
+  },
+  {
     "package": "rivr",
     "oncran": true
   }
