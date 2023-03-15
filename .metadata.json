@@ -1,13 +1,5 @@
 [
   {
-    "package": "cder",
-    "oncran": true
-  },
-  {
-    "package": "cimir",
-    "oncran": true
-  },
-  {
     "package": "kfigr",
     "oncran": true
   },
@@ -17,6 +9,14 @@
   },
   {
     "package": "rivr",
+    "oncran": true
+  },
+  {
+    "package": "cimir",
+    "oncran": true
+  },
+  {
+    "package": "cder",
     "oncran": true
   }
 ]
