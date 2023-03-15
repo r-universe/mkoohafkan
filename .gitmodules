@@ -3,6 +3,16 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cder"]
+	path = cder
+	url = https://github.com/mkoohafkan/cder
+	shallow = true
+	registered = true
+[submodule "cimir"]
+	path = cimir
+	url = https://github.com/mkoohafkan/cimir
+	shallow = true
+	registered = true
 [submodule "kfigr"]
 	path = kfigr
 	url = https://github.com/mkoohafkan/kfigr
@@ -16,15 +26,5 @@
 [submodule "rivr"]
 	path = rivr
 	url = https://github.com/mkoohafkan/rivr
-	shallow = true
-	registered = true
-[submodule "cimir"]
-	path = cimir
-	url = https://github.com/mkoohafkan/cimir
-	shallow = true
-	registered = true
-[submodule "cder"]
-	path = cder
-	url = https://github.com/mkoohafkan/cder
 	shallow = true
 	registered = true
